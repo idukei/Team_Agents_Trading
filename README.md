@@ -5,6 +5,7 @@
 Sistema autónomo de trading algorítmico que reacciona a eventos de mercado en **< 60 segundos**: declaraciones de líderes políticos (Trump, Fed, BCE), publicaciones de calendarios económicos (CPI, NFP, FOMC), anomalías de precio/volumen y noticias financieras. La única API de pago es Fireworks.ai para inferencia LLM (~$2-8/día).
 
 ---
+<img width="1910" height="897" alt="01" src="https://github.com/user-attachments/assets/7b08d891-e846-497a-8a69-bf4815a05dfd" />
 
 ## Índice
 
